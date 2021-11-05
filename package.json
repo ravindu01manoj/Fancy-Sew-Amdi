@@ -1,0 +1,23 @@
+{
+  "name": "fancy-sew-amdi",
+  "version": "1.0.1",
+  "description": "Unlimited Fancy Text Gen By Ravindu Manoj And Black Amda",
+  "main": "sewamdi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ravindu01manoj/fancy-text"
+  },
+  "author": "Ravindu Manoj | Black Amda",
+  "license": "GNU",
+  "dependencies": {
+    "axios": "^0.24.0"
+  },
+  "devDependencies": {},
+  "bugs": {
+    "url": "https://github.com/ravindu01manoj/QueenSewWhatsappBot/issues"
+  },
+  "homepage": "https://github.com/ravindu01manoj/QueenSewWhatsappBot#readme"
+}
