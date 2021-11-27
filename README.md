@@ -3,3 +3,6 @@
 
 This Project Is Only For Sew Queen And Queen Amdi🎲
 
+***
+
+<div align="center"><img src="https://profile-counter.glitch.me/ravindu01manoj/count.svg" /><br>Profile Viewers</div>
